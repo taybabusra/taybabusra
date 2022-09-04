@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taybabusra
 - 👀 I’m interested in machine learning,data analysis,deep learning
-- 🌱 I’m currently learning data stucture and algorithm
+- 🌱 I’m currently learning data stucture and algorithm and tensorflow 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taybabusra@gmail.com
 
