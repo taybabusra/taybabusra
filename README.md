@@ -9,15 +9,10 @@
 - 🧠 I have intermediate knowledge in Cybersecurity and Network Security.
 - 💻 I am currently gaining knowledge in VLSI Design and Simulation.
 
-### 🗂 All of my projects are available at [GitHub Portfolio](https://github.com/taybabusra?tab=repositories)
-
-### 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-
 ### 📝 Know about my experiences: [Google Doc](https://docs.google.com/document/d/your_document_id/edit?usp=sharing)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourinstagram/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourhackerrank/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourcodechef/)
 
@@ -43,18 +38,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taybabusra&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=taybabusra&theme=radical&column=4)
-
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 🗂 All of My Projects
-<!-- PROJECT-LIST:START -->
-<!-- PROJECT-LIST:END -->
