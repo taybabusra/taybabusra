@@ -4,10 +4,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=taybabusra&color=blueviolet)
 
-### 🌟 Specializing in Machine Learning and Deep Learning
+### 🌟 Specializing in ML,AI and VLSI(analog and digital design)
 
 - 🧠 I have intermediate knowledge in Cybersecurity and Network Security.
-- 💻 I am currently gaining knowledge in VLSI Design and Simulation.
+- 💻 
 
 I am open to:
 - 🤝 **Any collaboration work**
@@ -17,7 +17,7 @@ I am open to:
 
 Feel free to reach out if you have any opportunities or collaborations in mind.
 
-### 📝 Know about my experiences: [Google Doc](https://docs.google.com/document/d/your_document_id/edit?usp=sharing)
+% ### 📝 Know about my experiences: [Google Doc](https://docs.google.com/document/d/your_document_id/edit?usp=sharing)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayba-busra/)
