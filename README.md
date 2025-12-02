@@ -85,24 +85,11 @@ Working on RF and analog IC design, layout verification, and ML-integrated hardw
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
-
 <hr>
-
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=taybabusra&count_private=true&show_icons=true&theme=radical&cache_seconds=1800"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taybabusra&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"/>
-
-<hr>
-
 <h2>🌐 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/tayba-busra/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/taybabusra">
-  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <a href="mailto:your.email@example.com">
