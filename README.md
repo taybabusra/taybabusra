@@ -5,7 +5,7 @@
 <p><strong>RF & Analog Design Engineer | VLSI Specialist | ML-Driven Signal Processing Enthusiast</strong><br>
 Currently contributing to next-generation semiconductor solutions at <strong>Neural Semiconductor Limited</strong>.</p>
 
-// <img src="https://komarev.com/ghpvc/?username=taybabusra&color=blueviolet" />
+<! <img src="https://komarev.com/ghpvc/?username=taybabusra&color=blueviolet" />
 
 <hr>
 
