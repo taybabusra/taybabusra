@@ -23,7 +23,7 @@ Currently contributing to next-generation semiconductor solutions at <strong>Neu
 
 <h3>💼 Current Role</h3>
 <p>📍 <strong>Neural Semiconductor Limited</strong><br>
-Working on RF and analog IC design, layout verification, and ML-integrated hardware development.</p>
+Working on RF and analog IC design, layout verification.</p>
 
 <hr>
 
@@ -32,7 +32,6 @@ Working on RF and analog IC design, layout verification, and ML-integrated hardw
   <li>📡 RF / Analog IC projects</li>
   <li>🔬 ML for signal processing research</li>
   <li>🧪 Research internships & lab–industry collaborations</li>
-  <li>📚 Reviewer / PC Member for ML or Speech Processing venues</li>
 </ul>
 
 <hr>
