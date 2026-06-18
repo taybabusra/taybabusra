@@ -2,7 +2,7 @@
 
 <h1>👋 Hello, I'm <strong>TAYBA BUSRA</strong></h1>
 
-<p><strong>RF & Analog Design Engineer | VLSI Specialist | ML-Driven Signal Processing Enthusiast</strong><br>
+<p><strong>RFIC Engineer | VLSI Specialist | ML-Driven Signal Processing Enthusiast</strong><br>
 Currently contributing to next-generation semiconductor solutions at <strong>Neural Semiconductor Limited</strong>.</p>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=taybabusra&color=blueviolet" /> -->
