@@ -11,7 +11,7 @@ Currently contributing to next-generation semiconductor solutions at <strong>Neu
 
 <h3>🌟 Areas of Specialization</h3>
 <ul>
-  <li>📡 <strong>RF Circuit Design</strong> — LNAs, mixers, matching networks, RF block analysis</li>
+  <li>📡 <strong>RF Circuit Design</strong> — LNA,PA,matching networks, RF block analysis</li>
   <li>🔌 <strong>Analog Integrated Circuit Design</strong> — biasing, device-level design, parasitic-aware layout, validation</li>
   <li>🧩 <strong>VLSI Design</strong> — schematic, layout, PEX, DRC/LVS</li>
   <li>🔬 <strong>ML-Driven Signal Processing</strong> — speech enhancement, neural architectures</li>
@@ -29,7 +29,7 @@ Working on RF and analog IC design, layout verification.</p>
 
 <h3>🤝 Open to Collaborations</h3>
 <ul>
-  <li>📡 RF / Analog IC projects</li>
+  <li>📡 RF / AMS IC projects</li>
   <li>🔬 ML for signal processing research</li>
   <li>🧪 Research internships & lab–industry collaborations</li>
 </ul>
